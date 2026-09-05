@@ -1,0 +1,5 @@
+C:/Users/Артём/Documents/tva_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tva_core.dir
+C:/Users/Артём/Documents/tva_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tva_fit.dir
+C:/Users/Артём/Documents/tva_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tva_gui.dir
+C:/Users/Артём/Documents/tva_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Артём/Documents/tva_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

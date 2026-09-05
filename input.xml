@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Experiment id="book_creep_curves" baseTemperature="20">
+  <Curves>
+    <Curve temperature="-20">
+      <Point time="0.05" epsilon="0.35"/>
+      <Point time="0.10" epsilon="0.55"/>
+      <Point time="0.20" epsilon="0.70"/>
+      <Point time="0.30" epsilon="0.82"/>
+      <Point time="0.50" epsilon="0.95"/>
+      <Point time="0.75" epsilon="1.05"/>
+      <Point time="1.00" epsilon="1.10"/>
+      <Point time="1.50" epsilon="1.13"/>
+      <Point time="2.00" epsilon="1.15"/>
+      <Point time="3.00" epsilon="1.17"/>
+      <Point time="4.00" epsilon="1.18"/>
+      <Point time="5.00" epsilon="1.19"/>
+      <Point time="6.00" epsilon="1.20"/>
+    </Curve>
+    <Curve temperature="-10">
+      <Point time="0.05" epsilon="0.60"/>
+      <Point time="0.10" epsilon="0.90"/>
+      <Point time="0.20" epsilon="1.10"/>
+      <Point time="0.30" epsilon="1.25"/>
+      <Point time="0.50" epsilon="1.38"/>
+      <Point time="0.75" epsilon="1.48"/>
+      <Point time="1.00" epsilon="1.55"/>
+      <Point time="1.50" epsilon="1.60"/>
+      <Point time="2.00" epsilon="1.65"/>
+      <Point time="3.00" epsilon="1.68"/>
+      <Point time="4.00" epsilon="1.72"/>
+      <Point time="5.00" epsilon="1.75"/>
+      <Point time="6.00" epsilon="1.78"/>
+    </Curve>
+    <Curve temperature="0">
+      <Point time="0.05" epsilon="0.85"/>
+      <Point time="0.10" epsilon="1.15"/>
+      <Point time="0.20" epsilon="1.40"/>
+      <Point time="0.30" epsilon="1.55"/>
+      <Point time="0.50" epsilon="1.72"/>
+      <Point time="0.75" epsilon="1.85"/>
+      <Point time="1.00" epsilon="1.95"/>
+      <Point time="1.50" epsilon="2.00"/>
+      <Point time="2.00" epsilon="2.05"/>
+      <Point time="3.00" epsilon="2.08"/>
+      <Point time="4.00" epsilon="2.10"/>
+      <Point time="5.00" epsilon="2.12"/>
+      <Point time="6.00" epsilon="2.15"/>
+    </Curve>
+    <Curve temperature="10">
+      <Point time="0.05" epsilon="1.50"/>
+      <Point time="0.10" epsilon="1.80"/>
+      <Point time="0.20" epsilon="2.05"/>
+      <Point time="0.30" epsilon="2.20"/>
+      <Point time="0.50" epsilon="2.45"/>
+      <Point time="0.75" epsilon="2.60"/>
+      <Point time="1.00" epsilon="2.72"/>
+      <Point time="1.50" epsilon="2.86"/>
+      <Point time="2.00" epsilon="2.92"/>
+      <Point time="3.00" epsilon="2.97"/>
+      <Point time="4.00" epsilon="3.00"/>
+      <Point time="5.00" epsilon="3.04"/>
+      <Point time="6.00" epsilon="3.08"/>
+    </Curve>
+    <Curve temperature="20">
+      <Point time="0.05" epsilon="2.05"/>
+      <Point time="0.10" epsilon="2.35"/>
+      <Point time="0.20" epsilon="2.75"/>
+      <Point time="0.30" epsilon="3.00"/>
+      <Point time="0.50" epsilon="3.25"/>
+      <Point time="0.75" epsilon="3.45"/>
+      <Point time="1.00" epsilon="3.58"/>
+      <Point time="1.50" epsilon="3.68"/>
+      <Point time="2.00" epsilon="3.75"/>
+      <Point time="3.00" epsilon="3.78"/>
+      <Point time="4.00" epsilon="3.82"/>
+      <Point time="5.00" epsilon="3.86"/>
+      <Point time="6.00" epsilon="3.90"/>
+    </Curve>
+    <Curve temperature="30">
+      <Point time="0.05" epsilon="2.50"/>
+      <Point time="0.10" epsilon="3.00"/>
+      <Point time="0.20" epsilon="3.35"/>
+      <Point time="0.30" epsilon="3.60"/>
+      <Point time="0.50" epsilon="3.95"/>
+      <Point time="0.75" epsilon="4.15"/>
+      <Point time="1.00" epsilon="4.30"/>
+      <Point time="1.50" epsilon="4.62"/>
+      <Point time="2.00" epsilon="4.90"/>
+      <Point time="3.00" epsilon="5.10"/>
+      <Point time="4.00" epsilon="5.25"/>
+      <Point time="5.00" epsilon="5.38"/>
+      <Point time="6.00" epsilon="5.50"/>
+    </Curve>
+    <Curve temperature="40">
+      <Point time="0.05" epsilon="5.20"/>
+      <Point time="0.10" epsilon="5.55"/>
+      <Point time="0.20" epsilon="5.95"/>
+      <Point time="0.30" epsilon="6.30"/>
+      <Point time="0.50" epsilon="6.55"/>
+      <Point time="0.75" epsilon="6.75"/>
+      <Point time="1.00" epsilon="6.90"/>
+      <Point time="1.50" epsilon="7.12"/>
+      <Point time="2.00" epsilon="7.25"/>
+      <Point time="3.00" epsilon="7.45"/>
+      <Point time="4.00" epsilon="7.55"/>
+      <Point time="5.00" epsilon="7.63"/>
+      <Point time="6.00" epsilon="7.75"/>
+    </Curve>
+    <Curve temperature="45">
+      <Point time="0.05" epsilon="6.50"/>
+      <Point time="0.10" epsilon="7.40"/>
+      <Point time="0.20" epsilon="8.00"/>
+      <Point time="0.30" epsilon="8.45"/>
+      <Point time="0.50" epsilon="8.90"/>
+      <Point time="0.75" epsilon="9.40"/>
+      <Point time="1.00" epsilon="9.80"/>
+      <Point time="1.50" epsilon="10.55"/>
+      <Point time="2.00" epsilon="10.90"/>
+      <Point time="3.00" epsilon="11.35"/>
+      <Point time="4.00" epsilon="11.55"/>
+      <Point time="5.00" epsilon="11.72"/>
+      <Point time="6.00" epsilon="11.90"/>
+    </Curve>
+  </Curves>
+</Experiment>

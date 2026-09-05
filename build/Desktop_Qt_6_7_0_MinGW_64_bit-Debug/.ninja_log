@@ -1,0 +1,7 @@
+# ninja log v5
+3	597	7999699216804191	CMakeFiles/tva_fit.dir/src/main.cpp.obj	7d72639126f2a4a4
+1	2833	7999699239103114	CMakeFiles/tva_core.dir/src/tva_core.cpp.obj	1476d0f3b4346b07
+2	2892	7999699239723225	CMakeFiles/tva_gui.dir/src/gui.cpp.obj	aa80f94aaa8af08a
+2833	4500	7999699255836061	libtva_core.a	72c102b3fedee04d
+4500	6344	7999699274239292	tva_fit.exe	eb32304987d1f564
+4501	6661	7999699276184719	tva_gui.exe	ee53298fd53cc2f9

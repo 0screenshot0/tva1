@@ -1,0 +1,5 @@
+C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/tva_core.dir
+C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/tva_fit.dir
+C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/tva_gui.dir
+C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir

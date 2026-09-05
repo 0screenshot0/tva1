@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_tva_core_FILE /home/ArKomik/Documents/Oci/build/Desktop-Debug/libtva_core.a)
+set(__QT_DEPLOY_TARGET_tva_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_tva_fit_FILE /home/ArKomik/Documents/Oci/build/Desktop-Debug/tva_fit)
+set(__QT_DEPLOY_TARGET_tva_fit_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_tva_gui_FILE /home/ArKomik/Documents/Oci/build/Desktop-Debug/tva_gui)
+set(__QT_DEPLOY_TARGET_tva_gui_TYPE EXECUTABLE)

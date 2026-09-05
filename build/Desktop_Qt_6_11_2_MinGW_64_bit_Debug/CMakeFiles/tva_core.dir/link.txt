@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libtva_core.a CMakeFiles/tva_core.dir/src/tva_core.cpp.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libtva_core.a

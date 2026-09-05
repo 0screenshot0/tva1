@@ -1,0 +1,5 @@
+/home/ArKomik/Documents/Oci/build/Desktop-Debug/CMakeFiles/tva_core.dir
+/home/ArKomik/Documents/Oci/build/Desktop-Debug/CMakeFiles/tva_fit.dir
+/home/ArKomik/Documents/Oci/build/Desktop-Debug/CMakeFiles/tva_gui.dir
+/home/ArKomik/Documents/Oci/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ArKomik/Documents/Oci/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir

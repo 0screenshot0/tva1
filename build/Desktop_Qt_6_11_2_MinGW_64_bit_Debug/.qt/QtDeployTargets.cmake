@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_tva_core_FILE C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/libtva_core.a)
+set(__QT_DEPLOY_TARGET_tva_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_tva_fit_FILE C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/tva_fit.exe)
+set(__QT_DEPLOY_TARGET_tva_fit_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_tva_fit_RUNTIME_DLLS )
+set(__QT_DEPLOY_TARGET_tva_gui_FILE C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/tva_gui.exe)
+set(__QT_DEPLOY_TARGET_tva_gui_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_tva_gui_RUNTIME_DLLS C:/Qt/6.11.2/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.2/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.2/mingw_64/bin/Qt6Core.dll)

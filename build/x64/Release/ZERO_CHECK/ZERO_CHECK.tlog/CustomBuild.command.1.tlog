@@ -1,0 +1,10 @@
+^C:\USERS\АРТЁМ\DOCUMENTS\TVA_CPP\BUILD\CMAKEFILES\1F8D6C7112BA6D445F7E9BFCBBDC5623\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Артём/Documents/tva_cpp -BC:/Users/Артём/Documents/tva_cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Артём/Documents/tva_cpp/build/tva_cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

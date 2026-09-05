@@ -1,0 +1,5 @@
+C:/Users/Артём/Documents/tva_cpp/build/CMakeFiles/tva_core.dir
+C:/Users/Артём/Documents/tva_cpp/build/CMakeFiles/tva_fit.dir
+C:/Users/Артём/Documents/tva_cpp/build/CMakeFiles/tva_gui.dir
+C:/Users/Артём/Documents/tva_cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Артём/Documents/tva_cpp/build/CMakeFiles/ZERO_CHECK.dir

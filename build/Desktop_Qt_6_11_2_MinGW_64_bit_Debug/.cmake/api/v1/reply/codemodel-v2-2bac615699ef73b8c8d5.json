@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tva_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tva_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tva_core-Debug-a539d9b9397dfcfe0857.json",
+					"name" : "tva_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tva_fit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tva_fit-Debug-9264c2e6b34805821ad5.json",
+					"name" : "tva_fit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tva_gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tva_gui-Debug-f376ca22d462d88d48db.json",
+					"name" : "tva_gui",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+		"source" : "C:/Users/vsgor/Downloads/Telegram Desktop/tva_cpp1/tva_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
